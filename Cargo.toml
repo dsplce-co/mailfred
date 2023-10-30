@@ -40,7 +40,7 @@ mail-builder = { version = "0.3", optional = true }
 tokio-rustls = { version = "0.24", optional = true }
 
 # imap
-imap = { version = "3.0.0-alpha.10", optional = true }
+imap = { version = "=3.0.0-alpha.10", optional = true }
 mail-parser = { version = "0.8", optional = true }
 native-tls = { version = "0.2", optional = true }
 
